@@ -29,6 +29,7 @@ github_username:  heggiedavid
 
 # Build settings
 theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
