@@ -28,7 +28,7 @@ twitter_username: david_heggie
 github_username:  heggiedavid
 
 # Build settings
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
