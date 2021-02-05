@@ -29,7 +29,7 @@ github_username:  heggiedavid
 
 # Build settings
 theme: jekyll-theme-minimal
-#remote_theme: minimal
+
 plugins:
   - jekyll-feed
 
