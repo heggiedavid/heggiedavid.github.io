@@ -17,8 +17,6 @@ title: David Heggie
 email: davidheggie@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
    Welcome to my small corner of the internet.
-   Just a general dumping ground for thoughts, meanderings 
-   and rants about whatever's got my goat today.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: heggiedavid
